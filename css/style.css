@@ -1,0 +1,55 @@
+.navbar{
+    padding: 20px 20px ;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    width: 100%;
+}
+
+.container{
+    margin-top: 110px;
+}
+
+.navbar-collapse{
+    margin-left: 600px;
+}
+
+.navbar-nav{
+    display: flex;
+    align-items: center ;
+    gap: 20px;
+}
+
+.gap-3{
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    margin-top: 150px;
+}
+
+.menyu{
+    margin-top: 150px;
+}
+
+.downoload{
+    margin-top: 150px;
+}
+
+.wrapper{
+    margin-top: 150px;
+}
+
+.footer{
+    margin-top: 150px;
+}
+
+.client{
+    margin-top: 150px;
+}
+
+.align-items-center{
+    display: flex;
+    gap: 222px;
+}
